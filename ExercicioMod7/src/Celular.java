@@ -1,3 +1,11 @@
+/**
+ * @author Kennedy Klaydm
+ * Classe criada utilizando como base um Smartphone
+ * Atributos marca, modelo, cor e capacidade
+ * Métodos ligar, desligar, fazerLigacao, enviarMensagem e tirarFoto
+ * Também foram criados um Constructor com todos os atributos, Getters e Setters
+ */
+
 public class Celular {
     private String marca;
     private String modelo;
